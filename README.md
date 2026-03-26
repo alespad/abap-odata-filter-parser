@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 ABAP class that parses OData $filter strings into native ABAP range tables (select options).  
 Supports both OData V2 and V4 syntax, including V4 functions like contains(), startswith(), endswith() and the in operator.
 
